@@ -1,9 +1,8 @@
-// Select DOM Elements
 const contactForm = document.getElementById("contactForm");
 const nameInput = document.getElementById("name");
 const phoneInput = document.getElementById("phone");
 const emailInput = document.getElementById("email");
-const editStatus = document.getElementById("editStatus"); // hidden input storing index
+const editStatus = document.getElementById("editStatus"); 
 const tablebody = document.getElementById("tablebody");
 
 // Default initial contacts
